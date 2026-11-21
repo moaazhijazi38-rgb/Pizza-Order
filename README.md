@@ -43,8 +43,9 @@ A user-friendly, interactive desktop application built with **C#** and **Windows
 
 ## 📸 Screenshots
 
-![Uploading Screenshot 2026-11-21 103655.png…]()
-![Uploading Screenshot 2026-11-21 103634.png…]()
+<img width="955" height="569" alt="Screenshot 2026-11-21 103655" src="https://github.com/user-attachments/assets/f8c63de8-a08b-4c11-a853-b2b45cd504f0" />
+<img width="943" height="523" alt="Screenshot 2026-11-21 103634" src="https://github.com/user-attachments/assets/22b176c2-1b02-4839-88e0-b59c05f98a45" />
+
 
 
 ---
