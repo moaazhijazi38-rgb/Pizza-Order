@@ -43,8 +43,9 @@ A user-friendly, interactive desktop application built with **C#** and **Windows
 
 ## 📸 Screenshots
 
-> *(Optional: Add screenshots of your application here after uploading it to GitHub)*
-> `![App Screenshot](path/to/screenshot.png)`
+![Uploading Screenshot 2026-11-21 103655.png…]()
+![Uploading Screenshot 2026-11-21 103634.png…]()
+
 
 ---
 ---
