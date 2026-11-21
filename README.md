@@ -40,16 +40,6 @@ A user-friendly, interactive desktop application built with **C#** and **Windows
 3. Press `F5` or click the **Start** button to build and run the application.
 
 ---
-
-## 📸 Screenshots
-
-<img width="943" height="523" alt="Screenshot 2026-11-21 103634" src="https://github.com/user-attachments/assets/806d6076-8917-43be-9ce5-5cffba0f3627" />
-<img width="955" height="569" alt="Screenshot 2026-11-21 103655" src="https://github.com/user-attachments/assets/e5388281-8bab-468c-a1ff-6f20b244daf4" />
-<img width="955" height="569" alt="Screenshot 2026-11-21 103655" src="https://github.com/user-attachments/assets/96cd9960-11c7-414a-acd7-f2762c73140b" />
-<img width="943" height="523" alt="Screenshot 2026-11-21 103634" src="https://github.com/user-attachments/assets/d25396c8-1378-4bb4-a676-90ed712a3c38" />
-
-
-
 ---
 ---
 
